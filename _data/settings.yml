@@ -1,0 +1,108 @@
+#-------------------------------
+# General Site Settings
+
+title: Systech
+description: ISO & U.P. Govt. Certified Institution
+email: systechinstitute@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About, url: '#about-me'}
+- {name: Courses, url: '#work'}
+- {name: Faculties, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Provide a description for your website to make it visible to search engines.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **Since 2011** Systech Institue of Computer and Management.
+
+
+skills:
+- {name: Communication, value: '9'}
+- {name: Organization, value: '7'}
+- {name: Learning, value: '10'}
+- {name: Teaching, value: '6'}
+- {name: Planning, value: '7'}
+- {name: Visual Design, value: '5'}
+- {name: UX Design, value: '8'}
+- {name: Programming, value: '6'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-aaroni.jpg',
+  name: 'Gautam Kumar',
+  title: 'Operation and Management',
+  quote: '<p><strong>I truely believe in </strong> Do labour such a silent way that success make a noise.</p>',
+  logo: 'logo1.png'}
+- {avatar: 'face-atariboy.jpg',
+  name: 'Kaushal Kishore',
+  title: 'Web Developer, Teacher, Programmer, MCA(Goa University)',
+  quote: '<p><strong>At the end we all become stories.</strong> So do what you Love and Love what you do!.</p>',
+  logo: 'logo2.png'}
+- {avatar: 'face-jackiesaik.jpg',
+  name: 'Ravi Shankar Jaisawal',
+  title: 'Core Faculty and Finance Management',
+  quote: '<p><strong>Changing the lives,</strong> and teaching the students is just like programming a computer.</p>',
+  logo: 'logo3.png'}
+- {avatar: 'face-teleject.jpg',
+  name: 'Shweta Prajapati',
+  title: 'Core Faculty',
+  quote: '<p><strong>My Watsapp Quote</strong> Ye Duniya paiso par chalti hai par koi h jo hamare liye kamaye ja raha tha vo h papa.</p>',
+  logo: 'logo4.png'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://www.facebook.com/systechinstitute'}
+- {icon: 'dribbble', link: 'https://www.facebook.com/systechinstitute'}
+- {icon: 'behance', link: 'https://www.facebook.com/systechinstitute'}
+- {icon: 'youtube', link: 'https://www.facebook.com/systechinstitute'}
+- {icon: 'linkedin', link: 'https://www.facebook.com/systechinstitute'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
