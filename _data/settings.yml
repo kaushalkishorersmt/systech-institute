@@ -19,9 +19,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'Systech Institute of Computer and Management stablished Since 2011. Provide quality education.'
+  rel-author: 'https://plus.google.com/u/0/103924505769186090078'
+  rel-publisher: 'https://plus.google.com/u/0/103924505769186090078'
 
 #-------------------------------
 # Google Analytics Section
@@ -72,22 +72,22 @@ projects:
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
+- {avatar: 'face-gautam.jpg',
   name: 'Gautam Kumar',
   title: 'Operation and Management',
   quote: '<p><strong>I truely believe in </strong> Do labour such a silent way that success make a noise.</p>',
   logo: 'logo1.png'}
-- {avatar: 'face-atariboy.jpg',
+- {avatar: 'face-kaushal.jpg',
   name: 'Kaushal Kishore',
   title: 'Web Developer, Teacher, Programmer, MCA(Goa University)',
   quote: '<p><strong>At the end we all become stories.</strong> So do what you Love and Love what you do!.</p>',
   logo: 'logo2.png'}
-- {avatar: 'face-jackiesaik.jpg',
+- {avatar: 'face-ravi.jpg',
   name: 'Ravi Shankar Jaisawal',
   title: 'Core Faculty and Finance Management',
   quote: '<p><strong>Changing the lives,</strong> and teaching the students is just like programming a computer.</p>',
   logo: 'logo3.png'}
-- {avatar: 'face-teleject.jpg',
+- {avatar: 'face-shweta.jpg',
   name: 'Shweta Prajapati',
   title: 'Core Faculty',
   quote: '<p><strong>My Watsapp Quote</strong> Ye Duniya paiso par chalti hai par koi h jo hamare liye kamaye ja raha tha vo h papa.</p>',
