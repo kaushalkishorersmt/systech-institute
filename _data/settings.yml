@@ -19,9 +19,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'We are very happpy that STICM is touching new horizon of growth and success day by day. It is matter of greate satisfaction that STICM has continously taken up responsibilities of increasing awareness among students and providing them basic skills and training for increasing the chance of employability in younger so that they can compete in the global market. The participation in corporate, private and government organization's training is the indication of popularirty of Institute. Institute today have responsibility to bridge the gulf between the demands of technology driven competitive markets and availibility of skilled young job seekers. STICM is a public institute and take care of its social obligations by providing an opportunity for all section of society.'
-  #rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  #rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'We are very happpy that STICM is touching new horizon of growth and success day by day.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
 
 #-------------------------------
 # Google Analytics Section
@@ -29,7 +29,7 @@ seo:
 # Analytics helps you understand who visits your website.
 # Learn more at: http://support.google.com/analytics/answer/1008065
 
-#NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 #google-analytics-ua: UA-XXXXXX-X
 
